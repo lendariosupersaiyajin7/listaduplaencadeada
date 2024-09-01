@@ -1,0 +1,2 @@
+# listaduplaencadeada
+LISTA DUPLAMENTE ENCADEADA
